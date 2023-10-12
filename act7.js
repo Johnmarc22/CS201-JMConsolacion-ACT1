@@ -1,5 +1,5 @@
-let firstName = " John Marc"; 
- let last_name = " Consolacion "; 
+let firstName = " Jay"; 
+ let last_name = " Paulo "; 
  let fullName = firstName + ' ' + last_name; 
  console.log (fullName); 
  console.log("BSCS-2A"); 
